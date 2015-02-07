@@ -11,11 +11,11 @@ words_per_minute: 200
 owner:
   name:           edyang
   avatar:         avatar.jpg
-  bio:            "Your bio goes here. It shouldn't be super long but a good two sentences or two should suffice."
+  bio:            "Focus on service-side technology."
   email:          edyang123@gmail.com
   # Social networking links used in footer. Update and remove as you like.
   twitter:        
-  facebook:       edyang123
+  facebook:       
   github:         edyang
   stackexchange:  
   linkedin:       
@@ -23,7 +23,8 @@ owner:
   flickr:         
   tumblr:         
   # google plus id, include the '+', eg +mmistakes
-  google_plus:    +edyang123
+  google_plus:    https://plus.google.com/edyang123
+  weibo:  http://weibo.com/edwordyang
 
 # Background image to be tiled on all pages
 background: 
