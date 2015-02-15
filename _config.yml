@@ -10,7 +10,7 @@ words_per_minute: 200
 # Owner/author information
 owner:
   name:           edyang
-  avatar:         avatar.jpg
+  avatar:         /avatar.jpg
   bio:            "Focus on service-side technology."
   email:          edyang123@gmail.com
   # Social networking links used in footer. Update and remove as you like.
