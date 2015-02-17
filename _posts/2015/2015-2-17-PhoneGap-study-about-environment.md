@@ -115,8 +115,7 @@ share: true
 ##5. Hello word 程序编写
 在`/assets/www` 目录中新建index.html文件，并粘贴如下代码：
 <!-- lang:xml -->
-    <!DOCTYPE HTML>
-    <html>
+	<html>
     <head>
         <title>PhoneGap</title>
         <script type="text/javascript" charset="utf-8" src="cordova.js"></script>
