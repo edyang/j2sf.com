@@ -8,7 +8,6 @@ comments: true
 share: true
 ---
 
-# PhoneGap 学习-1.android环境搭建
 
 ![PhoneGap title](http://pic.yupoo.com/edyang/Erj1hGCU/medish.jpg)
 
@@ -115,7 +114,7 @@ share: true
 
 ##5. Hello word 程序编写
 在`/assets/www` 目录中新建index.html文件，并粘贴如下代码：
-<!-- lang:html -->
+<!-- lang:xml -->
     <!DOCTYPE HTML>
     <html>
     <head>
@@ -126,10 +125,10 @@ share: true
     <h1>Hello World</h1>
     </body>
     </html>
-<!-- lang:html -->
+<!-- lang:xml -->
 
 ##6. OK 运行吧！ 
  
----
+
 ![](http://j2sf.com/favicon.png) www.j2sf.com
 
