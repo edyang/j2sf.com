@@ -24,7 +24,7 @@ share: true
 ## 让我们开始吧
 
 
-### 1. 配置要求：
+### 1. 配置要求： 
 	Eclipse 3.4+ or IntelliJ Idea 13+
 
 ### 2. 安装SDK+PhoneGap
